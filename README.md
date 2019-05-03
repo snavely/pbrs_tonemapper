@@ -1,10 +1,10 @@
 This rendering code accompanies the paper
-
 ```
 CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering
 Zhengqi Li and Noah Snavely
 ECCV 2018
 ```
+available at http://www.cs.cornell.edu/projects/cgintrinsics/.
 
 # Rendering with Mitsuba
 
