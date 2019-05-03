@@ -4,7 +4,7 @@ CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rend
 Zhengqi Li and Noah Snavely
 ECCV 2018
 
- - Rendering with Mitsuba
+-- Rendering with Mitsuba
 
 We modified the Mitsuba rendering settings compared to the original
 PBRS settings. In particular, we dramatically increased the number of
